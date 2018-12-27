@@ -1,0 +1,8 @@
+{
+    "body": "{\"content\":\"gettin mafuckin names\",\"attachment\":\"hello.jpg\"}",
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
